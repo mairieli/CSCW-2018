@@ -1,0 +1,49 @@
+Link,Name,Tag,Category
+https://github.com/houndci-bot,houndci-bot,A1,Code Review
+https://github.com/twbs-rorschach,twbs-rorschach,A2,Pull Request Review
+https://github.com/facebook-github-bot,facebook-github-bot,A3,"License, Pull Request Review"
+https://github.com/googlebot,googlebot,A4,License
+https://github.com/tensorflow-jenkins,tensorflow-jenkins,A5,CI
+https://github.com/twbs-savage,twbs-savage,A6,CI
+https://github.com/jsf-clabot,jsf-clabot,A7,License
+https://github.com/swift-ci,swift-ci,A8,CI
+https://github.com/meteor/meteor/pull/8819,meteor-bot,A9,License
+https://github.com/nodejs/github-bot,nodejs-github-bot,A10,Pull Request Review
+https://github.com/rails-bot,rails-bot,A11,"Mention Review, Welcome"
+https://github.com/msftclas,Microsoft Contribution License Agreements,A12,License
+https://github.com/coveralls,coveralls,A13,Code Review
+https://github.com/webpack-bot,webpack bot,A14,"CI, Mention Review"
+https://github.com/gopherbot,gopherbot ,A15,Pull Request Review
+https://github.com/ansibot,ansibot,A16,"Code Review, Pull Request Review, CI"
+https://github.com/jekyllbot,jekyllbot,A17,"Merge, Mention Review"
+https://github.com/elasticmachine,Elastic Machine,A18,"Code Review, CI"
+https://github.com/codecov-io,Codecov,A19,Code Review
+https://github.com/rust-highfive,Rust highfive robot,A20,Mention Review
+https://github.com/bors,bors,A21,"CI, Merge"
+https://github.com/discoursebot,discoursebot,A22,License
+https://github.com/babel-bot,Babel Bot,A23,CI
+https://github.com/KernelPRBot,Kernel PR bot,A24,Welcome
+https://probot.github.io/apps/welcome/,Welcome,A25,Welcome
+https://github.com/greenkeeperio-bot,Greenkeeper,A26,Dependencies Control
+https://github.com/CLAassistant,CLAassistant,A27,License
+https://github.com/pdfjsbot,pdf.js test bot,A28,"Test, Builder"
+https://github.com/btford/mary-poppins,Mary Poppins,A30,Builder
+https://github.com/k8s-ci-robot,k8s ci robot,A31,"CI, License"
+https://github.com/k8s-merge-robot,k8s merge robot,A32,Merge
+https://github.com/chef-supermarket,Chef Supermarket,A33,License
+https://github.com/hhvm-bot,HHVM Community Bot,A34,License
+https://github.com/apps/ebert,Ebert,A35,Code Review
+https://github.com/asfgit,asfgit,A36,Merge
+https://github.com/npmcdn-to-unpkg-bot,npm-to-cdn-bot (by Forbes Lindesay),A37,Outside
+https://github.com/minikube-bot,minikube-bot,A38,Test
+https://github.com/weex-bot,DangerBot,A39,"Mention Review, Code Review"
+https://github.com/matticbot,Calypso Bot,A40,Pull Request Review
+https://github.com/VarCI-bot,VarCI Bot,A41,Pull Request Review
+https://github.com/ReadmeCritic,ReadmeCritic,A42,Outside
+https://github.com/deis-admin,Deis Bot,A43,Welcome
+https://github.com/deis-bot,Deis Bot,A44,Mention Review
+https://github.com/travisbot,The Travis Bot,A45,CI
+https://github.com/doctrinebot,Doctrine Bot,A46,Issue Creator
+https://github.com/Svelte-Bot,Svelte Bot,A47,Benchmark
+https://github.com/apps/wafflebot,Wafflebot,A49,Mention Review
+https://github.com/snyk-bot,Snyk bot,A50,Outside
